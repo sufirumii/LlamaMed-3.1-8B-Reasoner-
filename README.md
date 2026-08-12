@@ -1,5 +1,8 @@
 # LlamaMed-3.1-8B-Reasoner
 
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/bf55022d-5530-417c-b82c-d90b4fa19fcb" />
+
+
 A Llama-3.1-8B fine-tune trained to reason step by step through medical multiple-choice questions before answering, using chain-of-thought supervision from the ReasonMed dataset.
 
 Not a medical device. This is a research checkpoint for exploring medical-reasoning fine-tunes. Nothing it produces should inform a real clinical decision without a licensed clinician in the loop.
